@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🍭️👀️🍏️🌐️ The official source repository for the website of the iCandy project, a derivative of Skeuowie/SDE that is designed for the WacOS project. It features full skeuomorphism in design, along with an interface similar to Apples ecosystem. 

